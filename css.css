@@ -1,0 +1,90 @@
+html {
+  scroll-behavior: smooth;
+}
+
+main {
+  padding-bottom: 40rem;
+}
+body {
+    text-align:center;
+    margin:50px;
+    margin-top: 3px;
+    padding:30px;
+    width:900px;
+    float:right; 
+  }
+
+  h1{
+    font-family: 'Lucida Sans';
+ 
+  }
+  section {
+    padding: 4rem;
+  }
+  
+  ul {
+     text-align: center;
+     list-style-position: inside;
+     position: relative;
+  }
+  
+ ul.nav  .active{
+  background-color:#273746;
+  color:#273746;
+ }
+
+  .navbar li{
+    border: 1px solid white;
+    margin-left:-50px;
+    margin-right: 0px;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+
+  .navbar a {
+    padding: 3px 0px 3px 0px;
+    text-decoration: none;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    top:-5px;
+    width: 85%;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    
+
+    
+  }
+
+  .navbar{
+    float:left;
+    height:100%;
+    width: 20%;
+    background-color: black;
+    z-index: 1;
+    top:0;
+    left:0;
+    overflow: hidden;
+    padding-top: 40px; 
+    position: fixed;
+    transition: 0.5s;
+}
+
+ 
+  
+  .navbar a:hover{
+    color: white; 
+    height: relative;
+    text-align: center;
+    padding: 5px 15px; 
+
+  }
+
+  .title{
+    font-size: 45px;
+    font-family: 'Lucida Sans';
+    margin: 0;
+  }
+    
