@@ -2,6 +2,7 @@
 
 I got inspired to make a colorful side navigation bar by a website I visited.
 Im sure you can find a lot easier ways to do something like this, but it was more of a fun project.
+I used some random icons from: https://fontawesome.com/icons?d=gallery, for the color mixing when you hover over a section.
 
 The side-navbar looks like this:  
 
