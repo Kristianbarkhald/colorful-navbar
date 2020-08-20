@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
   });
 
-// hover section 2
+// Hover section 2
 $(document).ready(function(){
   $("#btn2").hover(function(){
     $("#btn1").css("color", "#e3342f"),$(".fa-handshake-o").css("color","#e3342f");
